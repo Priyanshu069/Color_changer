@@ -1,0 +1,32 @@
+#yellow{
+    padding: 3rem;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 1rem;
+}
+#green{
+    padding: 3rem;
+    background-color: green;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 1rem;
+}
+#white{
+    padding: 3rem;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 1rem;
+}
+#red{
+    padding: 3rem;
+    background-color: red;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 1rem;
+}
